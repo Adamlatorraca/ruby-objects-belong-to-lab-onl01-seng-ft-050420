@@ -5,6 +5,4 @@ class Artist
     @name = name
   end
 
-Beyonce = Artist.name
-
 end
