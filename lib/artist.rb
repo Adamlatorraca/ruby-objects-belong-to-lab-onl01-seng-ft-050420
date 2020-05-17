@@ -7,4 +7,4 @@ class Artist
 
 end
 
-Beyonce = artist.name
+Beyonce = artist.new
