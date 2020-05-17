@@ -7,4 +7,4 @@ class Artist
 
 end
 
-Artist.name(name)
+Artist.name(@name)
