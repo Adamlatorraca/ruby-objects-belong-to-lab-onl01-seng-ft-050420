@@ -7,4 +7,4 @@ class Artist
 
 end
 
-Artist.name("beyonce")
+Artist.name(name)
