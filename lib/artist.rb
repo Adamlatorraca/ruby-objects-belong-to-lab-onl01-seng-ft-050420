@@ -7,4 +7,4 @@ class Artist
 
 end
 
-beyonce = Artist.name
+Artist.name
