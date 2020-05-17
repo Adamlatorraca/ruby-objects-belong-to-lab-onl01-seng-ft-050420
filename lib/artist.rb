@@ -6,4 +6,4 @@ class Artist
   end
 end
 
-Drake = Artist.new("Drake")
+Drake = Artist.name("Drake")
