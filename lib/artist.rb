@@ -6,6 +6,4 @@ class Artist
   def initialize(name)
     @genre = genre
   end
-
-  name = Artist.new
 end
