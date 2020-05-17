@@ -5,3 +5,5 @@ class Artist
     @name = name
   end
 end
+
+Drake = Artist.new
