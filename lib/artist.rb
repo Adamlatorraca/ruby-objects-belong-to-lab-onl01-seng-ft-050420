@@ -7,4 +7,4 @@ class Artist
 
 end
 
-@name = Artist.name
+@@name = Artist.name
