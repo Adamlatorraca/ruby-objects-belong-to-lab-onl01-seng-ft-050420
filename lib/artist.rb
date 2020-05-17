@@ -7,4 +7,4 @@ class Artist
 
 end
 
-new.Artist.name(@name)
+@name = Artist.name
